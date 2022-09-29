@@ -1,6 +1,6 @@
 # Calculator 
 
-I made this calculator for learing purpose well if you want you can check it out 
+I made this calculator for learning purpose well if you want you can check it out 
 
 > Tech stack used
 * Front-end - ReactJS,CSS,Javascript,
